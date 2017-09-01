@@ -1713,6 +1713,7 @@ body {
 }
 .cid-qt2E7ijMQO H1 {
   color: #f3a81a;
+  text-align: center;
 }
 .cid-qtMbxsWirl {
   padding-top: 60px;
@@ -1802,6 +1803,7 @@ body {
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
+  border-radius: 0;
 }
 .cid-qt2TOzyNQJ .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
