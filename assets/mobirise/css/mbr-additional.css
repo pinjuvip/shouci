@@ -1772,60 +1772,6 @@ body {
 .cid-qtMfhhEwad P {
   color: #232323;
 }
-.cid-qt2TOzyNQJ {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/jumbotron2.jpg");
-}
-.cid-qt2TOzyNQJ .media-container-column {
-  align-items: center;
-}
-.cid-qt2TOzyNQJ .mbr-author-desc {
-  display: block;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial {
-  margin-top: 5rem;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .panel-item {
-  background-color: #efefef;
-  background: linear-gradient(#efefef, transparent);
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2rem;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .card-block .testimonial-photo {
-  margin-top: -5rem;
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  border-radius: 0;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .card-block p {
-  margin: 0;
-}
-.cid-qt2TOzyNQJ .mbr-testimonial .card-footer {
-  padding: 0 2rem 2rem 2rem;
-  border-top: 0;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 260px) {
-  .cid-qt2TOzyNQJ .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
 .cid-qt2TTslWrK {
   padding-top: 30px;
   padding-bottom: 60px;
